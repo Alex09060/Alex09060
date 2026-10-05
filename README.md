@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola, soy Tc_Alex09! 👋</h1>
+  <h1>¡Hola, soy Alex! 👋</h1>
   <p> entusiasta de la Ciberseguridad y el Hacking Ético </p>
 </div>
 
@@ -8,7 +8,6 @@
 ###  Sobre mí
 *  Actualmente aprendiendo sobre: **Pentesting, Redes y Linux**.
 *  Plataformas de práctica: **[HackTheBox](https://www.hackthebox.com)**
-*  Mi objetivo: Crecer profesionalmente en el área de la seguridad informática (Sysadmin & Ciberseguridad).
 
 ---
 
